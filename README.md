@@ -1,27 +1,70 @@
-<!-- Header -->
+<!-- ===========================================================
+  Profile README for: github.com/ahmadr221b1
+  Tip: replace placeholders like YOUR_LINKEDIN and IMAGE_URLs.
+=========================================================== -->
+
+<!-- Big header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0ea5e9,100:22c55e&text=Hi%20I'm%20Ridhoy%20(ahmadr221b1)!&fontAlign=50&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:22c55e&text=Hi%20I'm%20Hridoy%20(ahmadr221b1)!&fontAlign=50&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Welcome banner"/>
 </p>
 
+<!-- (Optional) dark/light logo swap — replace URLs if you have a logo -->
+<!--
 <p align="center">
-  <a href="https://github.com/ahmadr221b1?tab=followers"><img src="https://img.shields.io/github/followers/ahmadr221b1?logo=github&style=for-the-badge" /></a>
-  <a href="https://github.com/ahmadr221b1?tab=repositories"><img src="https://img.shields.io/github/stars/ahmadr221b1?affiliations=OWNER&style=for-the-badge" /></a>
-  <a href="MAILTO:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-LuxFrame%20Media-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ahmadr221b1&style=for-the-badge&color=blue" alt="views"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="DARK_LOGO_URL" />
+    <source media="(prefers-color-scheme: light)" srcset="LIGHT_LOGO_URL" />
+    <img alt="LuxFrame Media logo" src="LIGHT_LOGO_URL" height="72"/>
+  </picture>
+</p>
+-->
+
+<!-- Badges row -->
+<p align="center">
+  <a href="https://github.com/ahmadr221b1?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahmadr221b1?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ahmadr221b1?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ahmadr221b1?affiliations=OWNER&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ahmadr221b1&style=for-the-badge&color=0ea5e9" alt="profile views"/>
+
+  <!-- Quick-facts badges -->
+  <img src="https://img.shields.io/badge/Atlanta-GA-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-Cloud%20Support-22c55e?style=for-the-badge" />
+  <a href="https://www.instagram.com/luxframemedia/">
+    <img src="https://img.shields.io/badge/Portfolio-LuxFrame%20Media-111?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:luxframemedia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Book%20a%20shoot-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<!-- Typing -->
+<!-- Typing headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=700&lines=Cloud+%26+Full-Stack+Engineer;AWS+re%2FStart+%7C+Spring+Boot+%7C+Vue.js;Cybersecurity+Learner;Freelance+Photographer+%28LuxFrame+Media%29" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=780&lines=Cloud+%26+Full-Stack+Engineer;AWS+re%2FStart+%7C+Spring+Boot+%7C+Vue.js;Cybersecurity+Learner;Freelance+Photographer+%28LuxFrame+Media%29" alt="typing banner"/>
 </p>
+
+<!-- TOC -->
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack">Tech</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-at-a-glance">Stats</a> •
+  <a href="#-trophies--activity">Trophies</a> •
+  <a href="#-from-the-lens-luxframe">Photos</a> •
+  <a href="#-learning--certs">Learning</a> •
+  <a href="#-connect">Connect</a>
+</p>
+
+---
 
 ### 👋 About Me
-- 🔭 Building a **photography website** (Spring Boot + Vue) and an **e-commerce cart API**  
-- ☁️ Training toward **Cloud Support Associate / Cloud Engineer I** (AWS VPC, EC2, IAM, S3, CloudWatch)  
-- 💻 Java, Spring Boot, PostgreSQL, Vue.js | 📸 Real-estate & events (Atlanta)  
-- 🌱 Learning: Terraform, CI/CD, security hardening  
-- 🤝 Open to collabs on **cloud projects** and **portfolio apps**
+- 🔭 Building a **Photography Website** (Spring Boot + Vue) and an **E-commerce Cart API**
+- ☁️ Target role: **Cloud Support Associate / Cloud Engineer I** (VPC, EC2, IAM, S3, CloudWatch)
+- 💻 Java, Spring Boot, PostgreSQL, Vue.js | 📸 Real-estate & events (Atlanta)
+- 🛠️ Interests: Terraform, CI/CD, security hardening
+- 🤝 Open to collabs on **cloud** and **portfolio** apps
 
 ---
 
@@ -40,42 +83,63 @@
 ---
 
 ### 🚀 Featured Projects
-> swap `repo=` with your actual repo names (examples shown)
-
+<!-- These repos come from your public list -->
 <p>
   <a href="https://github.com/ahmadr221b1/Photography-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=Photography-Website&theme=transparent" />
   </a>
-  <a href="https://github.com/ahmadr221b1/m2-final-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=m2-final-project&theme=transparent" />
+  <a href="https://github.com/ahmadr221b1/RainCheck_SWE_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=RainCheck_SWE_Project&theme=transparent" />
   </a>
 </p>
 <p>
-  <a href="https://github.com/ahmadr221b1/RainCheck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=RainCheck&theme=transparent" />
+  <a href="https://github.com/ahmadr221b1/HomePage_Assignment01">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=HomePage_Assignment01&theme=transparent" />
   </a>
-  <a href="https://github.com/ahmadr221b1/SSGeek-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=SSGeek-ecommerce&theme=transparent" />
+  <a href="https://github.com/ahmadr221b1/Coding-Challenges">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=Coding-Challenges&theme=transparent" />
   </a>
 </p>
+<p>
+  <a href="https://github.com/ahmadr221b1/HW3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=HW3&theme=transparent" />
+  </a>
+  <a href="https://github.com/ahmadr221b1/HW4-RRAD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadr221b1&repo=HW4-RRAD&theme=transparent" />
+  </a>
+</p>
+
+<details>
+  <summary>📦 More projects</summary>
+
+- **hands-on-practice** — general practice repo  
+- **hands-on-practice__** — practice repo (variant)  
+- **hands-on-python-3084712** — LinkedIn Learning course fork  
+
+</details>
 
 ---
 
 ### 📊 GitHub at a glance
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadr221b1&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ahmadr221b1&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadr221b1&layout=compact&theme=transparent&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadr221b1&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ahmadr221b1&theme=transparent" alt="Streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadr221b1&layout=compact&theme=transparent&langs_count=8" alt="Top languages"/>
 </p>
 
 ---
 
 ### 🏆 Trophies & Activity
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadr221b1&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadr221b1&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadr221b1&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadr221b1&theme=github-compact" alt="activity graph"/>
+</p>
+
+<!-- Contribution Snake (requires the workflow below) -->
+<p>
+  <img src="https://raw.githubusercontent.com/ahmadr221b1/ahmadr221b1/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -84,18 +148,98 @@
 <details>
   <summary>See a few favorites</summary>
   <br/>
-  <img src="YOUR_IMAGE_URL_1" width="30%"/>
-  <img src="YOUR_IMAGE_URL_2" width="30%"/>
-  <img src="YOUR_IMAGE_URL_3" width="30%"/>
+  <!-- Replace with hosted image URLs -->
+  <img src="IMAGE_URL_1" width="30%" alt="photo 1"/>
+  <img src="IMAGE_URL_2" width="30%" alt="photo 2"/>
+  <img src="IMAGE_URL_3" width="30%" alt="photo 3"/>
+</details>
+
+---
+
+### 🧪 Practice & Feeds (optional)
+<!-- Uncomment any you use -->
+
+<!-- LeetCode card -->
+<!-- <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Source%20Code%20Pro" height="200" alt="LeetCode card"/> -->
+
+<!-- WakaTime weekly coding (needs API key + workflow) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- Latest blog posts (needs workflow) -->
+<!--
+### 📝 Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+-->
+
+<!-- Spotify (replace UID if you want this) -->
+<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" height="150" alt="Now Playing on Spotify"/> -->
+
+---
+
+### 🎯 Learning & Certs
+<p>
+  <img src="https://img.shields.io/badge/AWS%20re%2FStart-Student-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Sec%2B%20(in%20progress)-E01F27" />
+</p>
+
+<details>
+  <summary>📚 Tooling & Favorites</summary>
+
+- IDE: IntelliJ IDEA, VS Code  
+- Terminal: zsh + oh-my-zsh  
+- Themes: Dracula / JetBrains Mono  
+- Notes: Markdown + Obsidian  
+- Camera: Sony A7III (real estate & events)
+
 </details>
 
 ---
 
 ### 🤝 Connect
-<a href="https://www.linkedin.com/in/YOUR_HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/></a>
-<a href="YOUR_BOOKING_LINK"><img src="https://img.shields.io/badge/Book%20a%20shoot-111?style=for-the-badge&logo=googlecalendar&logoColor=fff"/></a>
-<a href="https://github.com/ahmadr221b1"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge"/></a>
+<!-- Add your LinkedIn if you want it visible -->
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/>
+</a>
+<a href="mailto:luxframemedia@gmail.com">
+  <img src="https://img.shields.io/badge/Book%20a%20shoot-111?style=for-the-badge&logo=gmail&logoColor=fff"/>
+</a>
+<a href="https://github.com/ahmadr221b1">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge"/>
+</a>
 
-<!-- Fun snake (needs actions below) -->
-<img src="https://raw.githubusercontent.com/ahmadr221b1/ahmadr221b1/output/github-contribution-grid-snake.svg" alt="snake"/>
+> 📸 **Need a photographer in ATL?**  
+> Email: **luxframemedia@gmail.com**
 
+---
+
+<!-- ===========================================================
+ Actions setup (copy into .github/workflows/*.yml)
+ These power the snake, blog, and WakaTime sections.
+=========================================================== -->
+
+<details>
+  <summary>⚙️ GitHub Actions setup</summary>
+
+#### 1) Contribution Snake (`.github/workflows/snake.yml`)
+```yml
+name: Generate snake
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ahmadr221b1
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
