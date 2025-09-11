@@ -32,17 +32,11 @@
   <!-- Quick-facts badges -->
   <img src="https://img.shields.io/badge/Atlanta-GA-0ea5e9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_to-Cloud%20Support-22c55e?style=for-the-badge" />
-  <a href="https://www.instagram.com/luxframemedia/">
-    <img src="https://img.shields.io/badge/Portfolio-LuxFrame%20Media-111?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:luxframemedia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Book%20a%20shoot-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <!-- Typing headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=780&lines=Cloud+%26+Full-Stack+Engineer;AWS+re%2FStart+%7C+Spring+Boot+%7C+Vue.js;Cybersecurity+Learner;Freelance+Photographer+%28LuxFrame+Media%29" alt="typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=780&lines=Cloud+%26+Full-Stack+Engineer;AWS+re%2FStart+%7C+Spring+Boot+%7C+Vue.js;Cybersecurity+Learner;Freelance+Photographer" alt="typing banner"/>
 </p>
 
 <!-- TOC -->
@@ -75,8 +69,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JWT-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge"/>
 </p>
 
@@ -144,18 +136,6 @@
 
 ---
 
-### 📸 From the Lens (LuxFrame)
-<details>
-  <summary>See a few favorites</summary>
-  <br/>
-  <!-- Replace with hosted image URLs -->
-  <img src="IMAGE_URL_1" width="30%" alt="photo 1"/>
-  <img src="IMAGE_URL_2" width="30%" alt="photo 2"/>
-  <img src="IMAGE_URL_3" width="30%" alt="photo 3"/>
-</details>
-
----
-
 ### 🧪 Practice & Feeds (optional)
 <!-- Uncomment any you use -->
 
@@ -199,18 +179,13 @@
 
 ### 🤝 Connect
 <!-- Add your LinkedIn if you want it visible -->
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ridhoy-ahmad/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/>
-</a>
-<a href="mailto:luxframemedia@gmail.com">
-  <img src="https://img.shields.io/badge/Book%20a%20shoot-111?style=for-the-badge&logo=gmail&logoColor=fff"/>
 </a>
 <a href="https://github.com/ahmadr221b1">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge"/>
-</a>
-
-> 📸 **Need a photographer in ATL?**  
-> Email: **luxframemedia@gmail.com**
+</a> 
+> Email: **ahmadr221b@gmail.com**
 
 ---
 
