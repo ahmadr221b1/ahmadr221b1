@@ -198,7 +198,7 @@
   <summary>⚙️ GitHub Actions setup</summary>
 
 #### 1) Contribution Snake (`.github/workflows/snake.yml`)
-```yml
+yml
 name: Generate snake
 on:
   schedule: [{cron: "0 */12 * * *"}]
