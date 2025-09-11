@@ -46,7 +46,6 @@
   <a href="#-featured-projects">Projects</a> •
   <a href="#-github-at-a-glance">Stats</a> •
   <a href="#-trophies--activity">Trophies</a> •
-  <a href="#-from-the-lens-luxframe">Photos</a> •
   <a href="#-learning--certs">Learning</a> •
   <a href="#-connect">Connect</a>
 </p>
@@ -56,9 +55,10 @@
 ### 👋 About Me
 - 🔭 Building a **Photography Website** (Spring Boot + Vue) and an **E-commerce Cart API**
 - ☁️ Target role: **Cloud Support Associate / Cloud Engineer I** (VPC, EC2, IAM, S3, CloudWatch)
-- 💻 Java, Spring Boot, PostgreSQL, Vue.js | 📸 Real-estate & events (Atlanta)
+- 💻 Java, Spring Boot, PostgreSQL, Vue.js
 - 🛠️ Interests: Terraform, CI/CD, security hardening
 - 🤝 Open to collabs on **cloud** and **portfolio** apps
+- 📸 Real-estate & events (Atlanta)
 
 ---
 
