@@ -5,7 +5,7 @@
 
 <!-- Big header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:22c55e&text=Hi%20I'm%20Hridoy%20(ahmadr221b1)!&fontAlign=50&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Welcome banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0ea5e9,100:22c55e&text=Hi%20I'm%20Ridhoy%20(ahmadr221b1)!&fontAlign=50&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Welcome banner"/>
 </p>
 
 <!-- (Optional) dark/light logo swap — replace URLs if you have a logo -->
