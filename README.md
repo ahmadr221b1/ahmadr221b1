@@ -182,11 +182,6 @@
 <a href="https://www.linkedin.com/in/ridhoy-ahmad/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/>
 </a>
-<a href="https://github.com/ahmadr221b1">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge"/>
-</a>
->
-> Email: **ahmadr221b@gmail.com**
 
 ---
 
