@@ -193,28 +193,3 @@
  Actions setup (copy into .github/workflows/*.yml)
  These power the snake, blog, and WakaTime sections.
 =========================================================== -->
-
-<details>
-  <summary>⚙️ GitHub Actions setup</summary>
-
-#### 1) Contribution Snake (`.github/workflows/snake.yml`)
-
-name: Generate snake
-on:
-  schedule: [{cron: "0 */12 * * *"}]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ahmadr221b1
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
