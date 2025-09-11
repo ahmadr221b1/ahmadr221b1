@@ -129,33 +129,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadr221b1&theme=github-compact" alt="activity graph"/>
 </p>
 
-<!-- Contribution Snake (requires the workflow below) -->
-<p>
-  <img src="https://raw.githubusercontent.com/ahmadr221b1/ahmadr221b1/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-### 🧪 Practice & Feeds (optional)
-<!-- Uncomment any you use -->
-
-<!-- LeetCode card -->
-<!-- <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Source%20Code%20Pro" height="200" alt="LeetCode card"/> -->
-
-<!-- WakaTime weekly coding (needs API key + workflow) -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- Latest blog posts (needs workflow) -->
-<!--
-### 📝 Latest Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
--->
-
-<!-- Spotify (replace UID if you want this) -->
-<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" height="150" alt="Now Playing on Spotify"/> -->
-
 ---
 
 ### 🎯 Learning & Certs
